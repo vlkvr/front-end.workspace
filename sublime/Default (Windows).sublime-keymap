@@ -1,0 +1,5 @@
+[
+{"keys": ["rightctrl+tab"],"command": "reindent","args": {"single_line": false}},
+{"keys": ["ctrl+space"],"command":"afn_show_filenames","context":[{"key": "afn_use_keybinding", "operator": "equal", "operand": true}]},
+{"keys": ["ctrl+alt+j"], "command": "insert", "args": {"characters": "4"}},
+]
